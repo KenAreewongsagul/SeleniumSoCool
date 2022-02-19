@@ -1,0 +1,2 @@
+module Ken_Tech {
+}
